@@ -1,0 +1,216 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Migrate to WooCommerce Multivendor Marketplace\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-28 03:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: helpers/class-wcfmmg-migrator.php:411
+msgid "Before we start please read this carefully -"
+msgstr ""
+
+#: core/class-wcfmmg-dokan.php:364 core/class-wcfmmg-wcmarketplace.php:460
+#: core/class-wcfmmg-wcvendors.php:498
+#, php-format
+msgid "Commission for %s order."
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:421
+msgid "Deleted orders or deleted product's orders will not be migrated!"
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:414
+msgid "Disabled caching and optimize plugins."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wclovers.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wclovers.com/knowledgebase_category/wcfm-marketplace/"
+msgstr ""
+
+#. Name of the plugin
+msgid "Migrate to WooCommerce Multivendor Marketplace"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Migrate your WC Markerplace or WC Vendors Marketplace or Dokan Multivendor "
+"store to WooCommerce Multivendor Marketplace (WCFM Marketplace)."
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:509
+#, php-format
+msgid "Migrating Store: #%s"
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:465
+#, php-format
+msgid "Multi-vendor Plugin - %s"
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:462
+msgid "Multi-vendor Store Stat!"
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:422 helpers/class-wcfmmg-migrator.php:471
+msgid "Never close this browser tab when migration is running."
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:650
+msgid ""
+"Please ask your vendors to re-check their store setting, specially payment "
+"setting."
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:651
+#, php-format
+msgid ""
+"Please uninstall your existing multi-vendor plugin and install %sWCFM "
+"Marketplace%s."
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:62
+msgid "Processing"
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:467
+#, php-format
+msgid "Products - %s"
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:473
+msgid "Start Migration"
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:567
+msgid "Store order migrating ...."
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:577 helpers/class-wcfmmg-migrator.php:580
+msgid "Store order migration complete"
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:548
+msgid "Store product migrating ...."
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:558 helpers/class-wcfmmg-migrator.php:561
+msgid "Store product migration complete"
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:586
+msgid "Store review migrating ...."
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:596 helpers/class-wcfmmg-migrator.php:599
+msgid "Store review migration complete"
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:529
+msgid "Store setting migrating ...."
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:539 helpers/class-wcfmmg-migrator.php:542
+msgid "Store setting migration complete"
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:57
+msgid "Store Stat"
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:605
+msgid "Store vendor migrating ...."
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:615 helpers/class-wcfmmg-migrator.php:618
+msgid "Store vendor migration complete"
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:419
+msgid ""
+"This migration tool only for migrating vendors, marketplace setting will not "
+"migrated using this. You have to do that manually."
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:420
+#, php-format
+msgid ""
+"Vendor's shipping setting will not migrate as WCFM Marketplace vendnor "
+"shipping totally different than your previous multi-vendor plugin! %sRead "
+"this to know more%s"
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:466
+#, php-format
+msgid "Vendors - %s"
+msgstr ""
+
+#. Author of the plugin
+msgid "WC Lovers"
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:416
+msgid "WCFM (WC Frontend Manager) installed and activated."
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:147 helpers/class-wcfmmg-migrator.php:161
+msgid "WCFM Marketplace Migration"
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:423
+msgid "We are ready, are you?"
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:408
+#, php-format
+msgid "Welcome to %s migration!"
+msgstr ""
+
+#: core/class-wcfmmg-dokan.php:485 core/class-wcfmmg-wcmarketplace.php:541
+#: core/class-wcfmmg-wcvendors.php:579
+msgid "Withdrawal by request."
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:431 helpers/class-wcfmmg-migrator.php:485
+msgid ""
+"WooCommerce or WC Frontend Manager (WCFM) is missing, please activate and "
+"back here!."
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:470
+msgid "You are about to start migration!"
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:417
+msgid "You are using a non-interrupted internet connection."
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:413
+msgid "You have already kept backup of your site's Database."
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:477
+msgid "You have no vendor, no migration require!"
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:415
+msgid "Your previous multi-vendor plugin installed and activated."
+msgstr ""
+
+#: helpers/class-wcfmmg-migrator.php:649
+msgid ""
+"Your store is successfully migrated. It's time to experience the things more "
+"Easily and Peacefully."
+msgstr ""
